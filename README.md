@@ -30,6 +30,8 @@ VITE_APP_ID = "your_api_key_here"
 6. Run the code / website via terminal:
 npm run dev
 
+Screenshot of the completed website:
+
 <img width="1710" alt="Screenshot 2025-03-06 at 12 59 47 PM" src="https://github.com/user-attachments/assets/95e3e568-62fb-4d75-9e9c-b4ba9f1bb774" />
 
 
