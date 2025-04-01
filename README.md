@@ -14,6 +14,7 @@ A simple and clean weather application built with **React**. This project was in
 - **CSS** for styling  
 
 ## 🛠️ Setup & Installation
+
 1. Clone the repository:
 
 2.Navigate to the project folder:
