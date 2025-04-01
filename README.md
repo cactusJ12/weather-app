@@ -15,20 +15,20 @@ A simple and clean weather application built with **React**. This project was in
 
 ## 🛠️ Setup & Installation
 
-1. Clone the repository:
+Clone the repository:
 
-2.Navigate to the project folder:
+Navigate to the project folder:
 cd weather-app
 
-3.Install dependencies:
+Install dependencies:
 npm install
 
-4.Get your API Key from OpenWeatherMap
+Get your API Key from OpenWeatherMap
 
-5. Create a .env file in the root directory and add:
+Create a .env file in the root directory and add:
 VITE_APP_ID = "your_api_key_here"
 
-6. Run the code / website via terminal:
+Run the code / website via terminal:
 npm run dev
 
 Screenshot of the completed website:
